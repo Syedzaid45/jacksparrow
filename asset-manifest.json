@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.850557ae.css",
+    "main.js": "/static/js/main.8b6b69f0.js",
+    "static/js/787.09a73f0a.chunk.js": "/static/js/787.09a73f0a.chunk.js",
+    "static/media/depp.mp4": "/static/media/depp.978b7628a0078d4527dd.mp4",
+    "static/media/jack.jpg": "/static/media/jack.04c44f20ee9ad82cabc9.jpg",
+    "static/media/Black & White.jpeg": "/static/media/Black & White.5ead3c9d8970a3ef0f17.jpeg",
+    "index.html": "/index.html",
+    "main.850557ae.css.map": "/static/css/main.850557ae.css.map",
+    "main.8b6b69f0.js.map": "/static/js/main.8b6b69f0.js.map",
+    "787.09a73f0a.chunk.js.map": "/static/js/787.09a73f0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.850557ae.css",
+    "static/js/main.8b6b69f0.js"
+  ]
+}
